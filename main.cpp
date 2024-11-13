@@ -42,4 +42,6 @@ int main()
     // Javasolt: delete[] b;  // Helyes kód: delete[] b; (a dinamikusan foglalt memória felszabadítása)
     
     return 0;
+
+    std::cout << Ez itt valami << std::endl;
 }
